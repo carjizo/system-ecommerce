@@ -1,7 +1,7 @@
 # system-ecommerce
 
 this is a system ecommerce con python 
-![](./Captura de pantalla.png)
+![](./screenshot.png)
 
 ### Installation
 
